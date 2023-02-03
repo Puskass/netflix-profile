@@ -1,0 +1,10 @@
+h1{
+    font-size: 4rem;
+    letter-spacing: 4px;
+    color: #fff;
+}
+
+.h1{
+    position: absolute;
+    top: 12rem;
+}

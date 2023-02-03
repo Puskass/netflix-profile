@@ -2,12 +2,13 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: #141414;
+  font-family: sans-serif;
 }
 
 div{
-  background-color: blueviolet;
-}
-
-p{
-  background-color: aquamarine;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }

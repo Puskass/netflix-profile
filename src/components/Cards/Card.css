@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 20rem;
+}
+
+.profile-pic{
+    height: 12rem;
+    border-radius: .5rem;
+}
+
+.profile-name{
+    font-size: 1.5rem;
+    padding-top: 1rem;
+    color: #939393;
+}
+
+.row{
+    padding-right: 3rem;
+}

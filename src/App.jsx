@@ -1,11 +1,17 @@
 import './App.css';
+import Button from './components/Button/Button';
+import Card from './components/Cards/Card';
+import Title from './components/Title/Title';
 
 function App() {
   return (
+  
   <div>
-    WHOSS watching
-    <p>some eveen more changes</p>
+    <Title />
+    <Card />
+    <Button />
   </div>
+  
   );
 }
 
